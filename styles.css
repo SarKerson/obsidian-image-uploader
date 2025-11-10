@@ -1,0 +1,50 @@
+/* PicGo Integration Plugin Styles */
+
+.picgo-settings-section {
+  margin-bottom: 1rem;
+}
+
+.picgo-settings-section h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.picgo-blacklist-input {
+  width: 100%;
+  min-height: 80px;
+}
+
+.picgo-notice {
+  background-color: var(--background-modifier-success);
+  color: var(--text-on-accent);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.picgo-setting-tab h2 {
+  color: var(--text-normal);
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.5rem;
+}
+
+.picgo-setting-tab h3 {
+  color: var(--text-normal);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.picgo-setting-tab p {
+  color: var(--text-muted);
+  margin: 0.5rem 0;
+}
+
+.picgo-setting-tab ul {
+  margin: 0.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.picgo-setting-tab li {
+  margin: 0.3rem 0;
+  color: var(--text-muted);
+}

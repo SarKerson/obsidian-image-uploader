@@ -1,0 +1,11 @@
+{
+	"id": "image-uploader",
+	"name": "Image Uploader",
+	"version": "1.0.0",
+	"main": "main.js",
+	"author": "SarKerson",
+	"description": "Upload images in the current document to image hosting via PicGo HTTP API and replace them with returned URLs",
+	"authorUrl": "https://github.com/SarKerson",
+	"isDesktopOnly": true,
+	"styles": "styles.css"
+}
